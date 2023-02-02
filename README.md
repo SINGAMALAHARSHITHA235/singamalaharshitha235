@@ -1,4 +1,5 @@
 ### Hi there 👋
+This Harshitha Singamala currenty at Northwest Missouri State University to do my master's in Acs
 
 <!--
 **SINGAMALAHARSHITHA235/singamalaharshitha235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
